@@ -30,7 +30,7 @@ footer{
   text-align: center;
 }
 
-@media screen and (min-width:641px){
+/*@media screen and (min-width:641px){
   aside{
     width: calc(50% - 20%);
     float:left;
@@ -64,5 +64,5 @@ footer{
     content:"";
     display:block;
     clear:both;
-  }
+  }*/
 }
